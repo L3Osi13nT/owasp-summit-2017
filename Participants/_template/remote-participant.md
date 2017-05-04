@@ -11,4 +11,4 @@ funded-who : self
 status     : empty
 ---
 
-(add info, links, blogs, twitter, bio, what would like to see at the summit)
+Anuruddha is a passionate Information Security Professional and he is a beginner contributor for some of the OWASP projects. He is keenly  interested in Mobile Security track of this summit.
